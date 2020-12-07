@@ -10,6 +10,13 @@ This theme should work with Xcode 11 and 12.
 
 ## Installation
 
+Download or clone this repository, then open the folder in a terminal.
+```
+./install.sh
+```
+
+This bash script will install the theme in Xcode `FontAndColorThemes` directory.
+
 ### Manual Installation
 Copy the .xccolortheme file into the following directory:
 ```
